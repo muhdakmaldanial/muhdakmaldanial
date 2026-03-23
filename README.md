@@ -61,8 +61,12 @@ Visualization:   Power BI, Metabase
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/muhdakmaldanial/)]
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:muhdakmaldanial98@gmail.com)
+<a href="https://www.linkedin.com/in/muhdakmaldanial/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:muhdakmaldanial98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
