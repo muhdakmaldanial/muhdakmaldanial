@@ -21,7 +21,7 @@ I believe data engineering is about more than writing pipelines. It's about buil
 |---------|---------------------|-------|
 | [**gl-journal-auditor**](https://github.com/muhdakmaldanial/gl-journal-auditor) | Production ETL with 8 audit rules, 4-schema architecture, full data lineage | Python, SQL, pandas, pytest, Power BI |
 | [**ecommerce-data-pipeline**](https://github.com/muhdakmaldanial/ecommerce-data-pipeline) | End-to-end warehouse pipeline with orchestration, transformation, and testing | Airflow, dbt, PostgreSQL, Docker, Great Expectations |
-| [**stream-processing-engine**](https://github.com/muhdakmaldanial/stream-processing-engine) | Real-time event streaming with schema registry and exactly-once processing | Kafka, Python, Avro, Docker, ksqlDB |
+| [**stream-processing-engine**](https://github.com/muhdakmaldanial/stream-processing-engine) | Real-time event streaming with schema registry and exactly-once processing | Kafka, Python, Avro, Docker, DuckDB |
 | [**data-platform-api**](https://github.com/muhdakmaldanial/data-platform-api) | Analytics API layer over a data warehouse with caching and rate limiting | FastAPI, DuckDB, Redis, Docker, pytest |
 
 ---
@@ -31,13 +31,13 @@ I believe data engineering is about more than writing pipelines. It's about buil
 ```
 Languages:       Python, SQL, Bash
 Orchestration:   Apache Airflow, cron, GitHub Actions
-Transformation:  dbt, pandas, Spark (PySpark)
-Databases:       PostgreSQL, DuckDB, SQLite, BigQuery
-Streaming:       Apache Kafka, Confluent Schema Registry
+Transformation:  dbt, pandas
+Databases:       PostgreSQL, DuckDB, SQLite
+Streaming:       Apache Kafka, Confluent Schema Registry, Avro
 APIs:            FastAPI, REST
 Testing:         pytest, Great Expectations, dbt tests
-DevOps:          Docker, Docker Compose, Terraform, CI/CD
-Visualization:   Power BI, Metabase
+DevOps:          Docker, Docker Compose, CI/CD
+Visualization:   Power BI
 ```
 
 ---
@@ -51,11 +51,10 @@ Visualization:   Power BI, Metabase
 
 ---
 
-### Currently Learning
+### Currently Exploring
 
 - Apache Spark for large-scale distributed processing
 - Terraform for infrastructure-as-code on AWS/GCP
-- Contributing to open-source data tools (Airflow, dbt, Great Expectations)
 
 ---
 
@@ -68,8 +67,3 @@ Visualization:   Power BI, Metabase
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
 </a>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhdakmaldanial&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
